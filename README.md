@@ -1,7 +1,7 @@
 # 📊 Commit Curve
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/MLStudio.commit-curve)](https://marketplace.visualstudio.com/items?itemName=MLStudio.commit-curve)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/MLStudio.commit-curve)](https://marketplace.visualstudio.com/items?itemName=MLStudio.commit-curve)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/i/MLStudio.commit-curve)](https://marketplace.visualstudio.com/items?itemName=MLStudio.commit-curve)
 [![License](https://img.shields.io/github/license/ML-Studio-Org/commit-curve)](LICENSE)
 
 > A VS Code extension that tracks and visualizes your coding activity to boost productivity
