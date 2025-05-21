@@ -1,6 +1,6 @@
 # 📊 Commit Curve
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://marketplace.visualstudio.com/items?itemName=commit-curve)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=commit-curve)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > Track and visualize developer productivity with AI insights
