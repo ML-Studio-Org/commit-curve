@@ -12,3 +12,12 @@ vsc-extension-quickstart.md
 **/*.map
 **/*.ts
 **/.vscode-test.*
+web-app/.next/**
+web-app/node_modules/**
+web-app/package-lock.json
+web-app/tailwind.config.js
+web-app/postcss.config.js
+web-app/tsconfig.json
+web-app/public/**
+web-app/styles/**
+*.log
